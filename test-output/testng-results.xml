@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-01T19:46:29 IST" name="Chailntl" finished-at="2022-07-01T19:46:55 IST" duration-ms="26068">
+    <groups>
+    </groups>
+    <test started-at="2022-07-01T19:46:29 IST" name="Registration" finished-at="2022-07-01T19:46:55 IST" duration-ms="26068">
+      <class name="com.Chailntl.tests.PaymentTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.Chailntl.tests.PaymentTest@15deb1dc]" started-at="2022-07-01T19:46:29 IST" name="beforeTest" finished-at="2022-07-01T19:46:31 IST" duration-ms="2196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="Paymenttest()[pri:0, instance:com.Chailntl.tests.PaymentTest@15deb1dc]" started-at="2022-07-01T19:46:31 IST" name="Paymenttest" finished-at="2022-07-01T19:46:55 IST" duration-ms="23792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Paymenttest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Chailntl.tests.PaymentTest@15deb1dc]" started-at="2022-07-01T19:46:55 IST" name="tearDown" finished-at="2022-07-01T19:46:55 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Chailntl.tests.PaymentTest -->
+    </test> <!-- Registration -->
+  </suite> <!-- Chailntl -->
+</testng-results>

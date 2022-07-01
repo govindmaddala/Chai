@@ -1,0 +1,2 @@
+19:46:55.198 [main] INFO  com.Chailntl.tests.PaymentTest - All the order details are stored in details.config file
+19:46:55.260 [main] INFO  com.Chailntl.tests.PaymentTest - Automation of Payment test is done and browser is closed

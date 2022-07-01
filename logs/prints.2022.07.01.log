@@ -1,0 +1,6 @@
+19:46:31.391 [main] INFO  com.Chailntl.tests.PaymentTest - Browser is invoked for Automation of Payment test
+19:46:34.719 [main] INFO  com.Chailntl.tests.PaymentTest - Details are entered
+19:46:34.756 [main] INFO  com.Chailntl.tests.PaymentTest - To proceed further Payment button is clicked
+19:46:37.507 [main] INFO  com.Chailntl.tests.PaymentTest - Wallet Payment method is selected
+19:46:37.633 [main] INFO  com.Chailntl.tests.PaymentTest - Payment button is clicked for final payment
+19:46:55.145 [main] INFO  com.Chailntl.tests.PaymentTest - Payment is successfully done
